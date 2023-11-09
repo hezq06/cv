@@ -17,34 +17,38 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RIKEN Center for Brain Science
+    url: https://cbs.riken.jp/jp/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI and Brain.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neural Science
+  - Natural Langauge Processing
+  - High-level Cognition
+  - Science and AI
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Engineering Physics
+      institution: Tsinghua University
+      year: 2014
+    - course: Graduate Program Candidate in Physics
+      institution: Michigan State University
+      year: 2013
+    - course: B.E. in Engineering Physics
+      institution: Tsinghua University
+      year: 2010
+    - course: Minor in Computer Technology and Application
+      institution: Tsinghua University
+      year: 2010
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
