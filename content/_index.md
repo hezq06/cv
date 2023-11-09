@@ -83,10 +83,10 @@ sections:
           date_start: '2012-02-01'
           date_end: '2017-11-01'
           description: |2-
-            Activities include:
-                * Leading the development of FRIB online beam tuning modeling engine FLAME
-                * Development of intelligent online beam tuning applications
-                * Development of new physics model for FRIB non-axisymmetric radio frequency cavities and multi-charge state acceleration.
+              Activities include:
+              * Leading the development of FRIB online beam tuning modeling engine FLAME
+              * Development of intelligent online beam tuning applications
+              * Development of new physics model for FRIB non-axisymmetric radio frequency cavities and multi-charge state acceleration.
     design:
       columns: '2'
   # - block: accomplishments
@@ -206,7 +206,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Selected Publications
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
