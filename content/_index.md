@@ -62,27 +62,31 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Scientist
+          company: RIKEN Center for Brain Science
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Saitama, Japan
+          date_start: '2017-11-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              Activities include:
+              * Discovery of functional parallel between language models and human brain using causal graph.
+              * Discovery of spontaneously emerging syntax v.s. semantics in two-tower language models.
+              * Development of an information-theoretic progressive framework for interpretation.
+              * Interdisciplinary study between AI and Brain Science
+        - title: Research Associate
+          company: Facility for Rare Isotope Beams
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Michigan, Us
+          date_start: '2012-02-01'
+          date_end: '2017-11-01'
+          description: |2-
+            Activities include:
+                * Leading the development of FRIB online beam tuning modeling engine FLAME
+                * Development of intelligent online beam tuning applications
+                * Development of new physics model for FRIB non-axisymmetric radio frequency cavities and multi-charge state acceleration.
     design:
       columns: '2'
   # - block: accomplishments
