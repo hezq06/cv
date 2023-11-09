@@ -124,5 +124,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhengqi He is a research scientist at RIKEN Center for Brain Science, working with Prof. Taro Toyoizumi. His research interests include computational theory for natural language in brain and AI, higher-order cognition function, biological big data mining. He previously works as a research associate at Facility for Rare Isotope Beams, leading the development of on-line beam tuning model FLAME.
+
 {style="text-align: justify;"}
