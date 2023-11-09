@@ -1,8 +1,8 @@
 ---
-title: "Spontaneous Emerging Preference in Two-tower Language Model"
+title: "Progressive Interpretation Synthesis: Interpreting Task Solving by Quantifying Previously Used and Unused Information"
 authors:
 - admin
-date: "2023-11-09"
+date: "2023-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

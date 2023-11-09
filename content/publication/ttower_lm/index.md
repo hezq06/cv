@@ -2,7 +2,7 @@
 title: "Spontaneous Emerging Preference in Two-tower Language Model"
 authors:
 - admin
-date: "2023-11-09"
+date: "2022-10-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
