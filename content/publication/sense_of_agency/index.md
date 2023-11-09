@@ -1,5 +1,5 @@
 ---
-title: "Decoding silence in free recall"
+title: "Synthetic agency: sense of agency in artificial intelligence"
 authors:
 - admin
 - Robert Ford
