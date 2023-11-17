@@ -24,7 +24,8 @@ abstract: Understanding how humans process natural language has long been a vita
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- CBS, arXiv
+- CBS
+- arXiv
 featured: True
 
 links:
