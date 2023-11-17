@@ -24,20 +24,20 @@ abstract: Understanding how humans process natural language has long been a vita
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Selected Publications
+- CBS, arXiv
 featured: True
 
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: '#'
+#url_pdf: '#'
 url_code: 'https://github.com/hezq06/causal_narrative'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
