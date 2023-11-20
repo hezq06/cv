@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Current Opinion in Behavioral Sciences, 29*(84-90)"
 publication_short: ""
 
 abstract: The concept of sense of agency (SoA) has garnered considerable attention in human science at least in the past two decades. Coincidentally, about two decades ago, artificial intelligence (AI) research witnessed an explosion of proposed theories on agency mostly based on dynamical approaches. However, despite this early burst of enthusiasm, SoA models in AI remain limited. We review the state of AI research on SoA, seen predominantly in developmental robotics, vis-à-vis the psychology and neurocognitive treatments, and examine how AI can further achieve stronger SoA models. We posit that AI is now poised to better inform SoA given its advances on self-attribution of action–outcome effects, action selection, and Bayesian inferencing, and argue that synthetic agency has never been more compelling.

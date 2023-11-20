@@ -15,6 +15,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
+publication: "*Neural Computation (2023) 35*(1)38-57"
 publication: ""
 publication_short: ""
 

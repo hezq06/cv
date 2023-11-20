@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Phys. Rev. Research, 4*"
 publication_short: ""
 
 abstract: In experiments on free recall from lists of items, not all memory retrievals are necessarily reported. Previous studies investigated unreported retrievals by attempting to induce their externalization. We show that, without any intervention, their statistics may be directly estimated through a model-free analysis of inter-response times—the silent intervals between recalls. A delay attributable to unreported recalls emerges in three situations, if the final item was already recalled (“silent recency effect”); if the item that, within the list, follows the latest recalled item was already recalled (“silent contiguity effect”); and in sequential recalls within high-performing trials (“sequential slowdown”). We endeavor to model all these effects through a stochastic process where the discarding of recalled items without reporting (“bouncing”) occurs either if they are repetitious or, in strategically organized trials, if they are not sequential. Based on our findings, we propose various approaches to further probing the submerged dynamics of memory retrieval. This article is part of the Physical Review Research collection titled Physics of Neuroscience.
@@ -26,7 +26,8 @@ abstract: In experiments on free recall from lists of items, not all memory retr
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- CBS
+- Cognition
 featured: false
 
 # links:
