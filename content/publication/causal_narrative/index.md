@@ -25,7 +25,7 @@ abstract: Understanding how humans process natural language has long been a vita
 
 tags:
 - CBS
-- arXiv
+- Language
 featured: True
 
 links:
