@@ -2,6 +2,7 @@
 title: "Progressive Interpretation Synthesis: Interpreting Task Solving by Quantifying Previously Used and Unused Information"
 authors:
 - admin
+- Taro Toyoizumi
 date: "2023-01-01"
 doi: ""
 
@@ -11,7 +12,7 @@ doi: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -23,25 +24,26 @@ abstract: A deep neural network is a good task solver, but it is difficult to ma
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- CBS
+- Cognition
 featured: True
 
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: 'https://watermark.silverchair.com/neco_a_01542.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzowggM2BgkqhkiG9w0BBwagggMnMIIDIwIBADCCAxwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMvNsAy7OBYYzS-z3DAgEQgIIC7ThSfBQ2X31rHkjjWWSC3xRx7Kl0PeZxXmT5IvuOQOXnGdAlOMBuK9s-eG90rjmHHnWMsrnqe-usIipPDwVfgb41aKgmAurrYI03in5-rtsWT4rQWFaCwamf9GQl9_U2MbCWCbaeGh8B_jwwkAPPxRXMSlf42ptJ0Cx44gvL1QX84Z5mFdeBrNwBZtJ85OkvQ6GCH9lLpsDnIpXjbQwBsMLL2ZV3vyR1CA6ci0nlyRAtm1QVhu5Yid1XgnULTOd50jnBxbXn86fBti-obcIGKJl2OrvnibnOY3aWdPK96RjR856KEAHZZBUH7FRhH-ao9gUdfgdC3zN44ml_wfXwcAzE3sLQbfS4dIUmJgt4dfh01JQZ-_Rv0auBr1Fy1651oT5yDF5AzCltcyJYwVT6sSOmLqyTQug_j9lgFRiTCStnJ7767QjPOEKrjmtg6Dz-BqZDz-zfYS9Vr9cD9jARkRnBpilChYgEk3xkjKqhKFdzzqpJPRuKf5WCOtXqnfxTFx3KdJoxBMzw9dautZNMONvp72-Iv-42NJrXeRU7U4t-5-k_Yg_rVc-iV3p7CVKmLSeJhA4tVJK_3XURl3xb9QIInjV9gdDEV4Nrv0lMj7Hc2DLU_UTG9gxLMDdhRdEMrREpFtv_ToTHnkKRouANqBZy_ejIcTaN4zDF5s04__oKVv6QWihihH0BMpF4jUXfok6dTnqBIcB-Ozndj6yuCl3x-8g0VEd2xAODPfpPpSJV48RqAHOAigsZGWXhblqaCyDl-cvtxF0FUF0QmNaCvwpo868cHisIusoj2KLHKkinTeHMFo7vNJQujcgMlTI0kzhGdTb2DGM435ZeXq93DusGFmxXH8Agqg4kSwIUqJYFPwC1kjMIYUasuQzp7FhQiD0i2mvhgT7cabToAlytKdeg3MFZD0krSus-Wyc8mgzcfznAhlVkx5H3FbJ8-zYU9PSfnWD1J1FzTYgtwktUBMm6ZPHyo-82FVHETdGr'
+url_code: 'https://github.com/hezq06/progressive_interpretation'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**OpenAI**](https://https://chat.openai.com/auth/login)'
   focal_point: ""
   preview_only: false
 
@@ -61,8 +63,8 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
