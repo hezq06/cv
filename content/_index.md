@@ -199,7 +199,7 @@ sections:
         #   organization_url: https://www.coursera.org
         #   title: Neural Networks and Deep Learning
         #   url: ''
-        - date_start: '2023'
+        - date_start: '2023-11-01'
           title: Reviewer for ACL Rolling Review
           organization: ARR
           url: https://aclrollingreview.org/
