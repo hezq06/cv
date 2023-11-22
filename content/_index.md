@@ -200,18 +200,28 @@ sections:
         #   title: Neural Networks and Deep Learning
         #   url: ''
         - date_start: '2023-11-01'
+          date_end: ''
           title: Reviewer for ACL Rolling Review
           organization: ARR
           url: https://aclrollingreview.org/
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - date_start: '2021-11-01'
+          date_end: '2023-06-01'
+          title: Co-reviewer for Pacific Rim International Conference on Artificial Intelligence
+          organization: PRICAI
+          url: https://www.pricai.org/
+        - date_start: '2021-11-01'
+          date_end: '2023-06-01'
+          title: The 9th Joint Meeting of Chinese Physicists Worldwide
+          description: Online Beam Tuning Application for the Facility for Rare Isotope Beams, contributed talk
+          organization: Tsinghua
+          url: https://www.phys.tsinghua.edu.cn/phyen/info/1061/1046.htm
+        - date_start: '2017-07-17'
+          date_end: ''
+          title: The 9th Joint Meeting of Chinese Physicists Worldwide
+          description: Online Beam Tuning Application for the Facility for Rare Isotope Beams, contributed talk
+          organization: Tsinghua
+          url: https://www.phys.tsinghua.edu.cn/phyen/info/1061/1046.htm
+        
     design:
       columns: '2'
   ####################################
