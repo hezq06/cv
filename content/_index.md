@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 'Trial Title'
-date: 2022-10-24
+date: 2023-11-22
 type: landing
 
 sections:
@@ -179,6 +179,7 @@ sections:
 
   #######################################
   - block: accomplishments
+    id: extra
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Extra Courses and Training'
