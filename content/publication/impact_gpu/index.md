@@ -2,24 +2,26 @@
 title: "Performance Optimization of Multi-particle Beam Dynamics Code IMPACT-Z on NVidia GPGPU"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- G. Shen
+- Y. Yamazaki
+- X. Wang
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2016-05-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2016-05-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*7th Int. Particle Accelerator Conf.*"
+publication_short: "IPAC'16"
 
 abstract: Facility for Rare Isotope Beams is designed using a multiparticle tracking code IMPACT-Z. IMPACT-Z is originally for the purpose of accelerator design, so it is precise, however, quite time consuming, therefore usually not suitable for on-line beam tuning applications. IMPACT-Z is originally boosted using Message Passing Interface (MPI) technology. For single node mode, performance of IMPACT-Z is usually bounded by CPU performance, and for multinode mode, communication between MPI processes would become bottleneck. However, new emerging High Performance Computing (HPC) technology, like general-purpose graphics processing unit (GPGPU), brings new possibility in accelerating IMPACT-Z, so that the speed of IMPACT-Z satisfies for on-line beam tuning applications. This paper presents the efforts in exploring the capability of Nvidia GPGPU and the results of speed up of IMPACT-Z.
 
@@ -27,25 +29,26 @@ abstract: Facility for Rare Isotope Beams is designed using a multiparticle trac
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- FRIB
+- Online Application
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: 'https://s3.cern.ch/inspire-prod-files-4/4cb22c1bc424038a8f74df7bfe914dc0'
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**OpenAI**](https://https://chat.openai.com/auth/login)'
   focal_point: ""
   preview_only: false
 
@@ -64,7 +67,7 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -72,4 +75,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
