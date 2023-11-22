@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of ICAP2015, Shanghai, China"
+publication: "*Proceedings, 12th International Computational Accelerator Physics Conference*"
 publication_short: "ICAP2015"
 
 abstract: FRIB (Facility for Rare Isotope Beams) is a heavy ion linac facility under construction, which has various specific features in its beam dynamics design to achieve the world highest beam power for heavy ion linacs. It is a challenge to develop an online model which covers all those specific features and satisfies the requirement for execution speed at the same time. An online model named TLM (Thin Lens Model) is under active development at FRIB to address its all major beam dynamics issues. This paper describes the latest status of TLM code, the infrastructure to integrate the TLM into FRIB beam commissioning environment.

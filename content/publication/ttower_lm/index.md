@@ -34,7 +34,7 @@ links:
 url_pdf: 'https://arxiv.org/pdf/2210.07041.pdf'
 url_code: 'https://github.com/hezq06/twotower_lm'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'https://drive.google.com/file/d/1DKwPOiBQE4RzhEK3tFBJr2LVLHlpZJDN/view?usp=drive_link'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
@@ -60,7 +60,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 <!-- {{% callout note %}}

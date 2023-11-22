@@ -31,10 +31,10 @@ featured: True
 links:
 # - name: Custom Link
 #   url: http://example.org
-#url_pdf: '#'
+url_pdf: 'https://arxiv.org/pdf/2311.10431.pdf'
 url_code: 'https://github.com/hezq06/causal_narrative'
 #url_dataset: '#'
-#url_poster: '#'
+url_poster: 'https://drive.google.com/file/d/19qUMydFu5UotC39r0SXd79D8BixvZFli/view?usp=drive_link'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
@@ -60,7 +60,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 <!-- {{% callout note %}}
