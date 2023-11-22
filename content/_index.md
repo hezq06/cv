@@ -226,6 +226,17 @@ sections:
           title: Reviewer of Physical Review Accelerators and Beams
           organization: APS
           url: https://journals.aps.org/prab/
+        - date_start: '2011-09-01'
+          date_end: '2011-12-01'
+          title: Visiting scholar, S-LSR, Institute for Chemical Research, Kyoto University
+          organization: KyotoU
+          url: https://www.kuicr.kyoto-u.ac.jp/sites/icr/
+        - date_start: '2009-07-01'
+          date_end: '2009-09-01'
+          title: Visiting scholar, Virtual Reality Center of RWTH Aachen, Germany
+          organization: RWTH
+          url: https://www.vr.rwth-aachen.de/
+        
         
     design:
       columns: '2'
