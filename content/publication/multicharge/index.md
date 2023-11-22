@@ -31,7 +31,7 @@ abstract: The traditional linear envelope model is widely used in linac design a
 
 tags:
 - FRIB
--Theory
+- Theory
 featured: false
 
 # links:
