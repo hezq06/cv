@@ -65,7 +65,7 @@ sections:
         - title: Research Scientist
           company: RIKEN Center for Brain Science
           company_url: ''
-          company_logo: org-gc
+          company_logo: ''
           location: Saitama, Japan
           date_start: '2017-11-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Research Associate
           company: Facility for Rare Isotope Beams
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Michigan, Us
           date_start: '2012-02-01'
           date_end: '2017-11-01'
