@@ -176,6 +176,62 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  #######################################
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Extra Courses and Training'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        # - certificate_url: https://www.coursera.org
+        #   date_end: ''
+        #   date_start: '2021-01-25'
+        #   description: ''
+        #   icon: coursera
+        #   organization: Coursera
+        #   organization_url: https://www.coursera.org
+        #   title: Neural Networks and Deep Learning
+        #   url: ''
+        - date_start: '2022-10-01'
+          date_end: '2023-02-01'
+          title: Fundamentals of Computational Life Science
+          organization: KobeU
+          url: http://www.eccse.kobe-u.ac.jp/distance_learning/life_science9/#lec1
+        - date_start: '2018-10-01'
+          date_end: '2019-06-01'
+          title: RIKEN CBS Brain Science Training Program
+          organization: CBS
+          url: https://cbs.riken.jp/en/TP/
+        - date_start: '2015-06-01'
+          date_end: ''
+          title: Parallel programming and optimization with Intel Xeon Phi Coprocessors, ICER, MSU
+          organization: MSU
+        - date_start: '2013-05-01'
+          date_end: ''
+          title: Introduction to High Performance Computation, ICER, MSU
+          organization: MSU
+          url: https://icer.msu.edu/education-events/introduction-hpcc-15
+        - date_start: '2012-07-01'
+          date_end: ''
+          title: VSCSE Science Cloud Summer School, ICER, MSU
+          organization: MSU
+          url: http://www.vscse.org/summerschool/2012/scss.html
+        - date_start: '2012-07-01'
+          date_end: ''
+          title: USPAS courses "Special Topics in Accelerator Physics", Grand Rapids
+          organization: MSU
+          url: https://uspas.fnal.gov/programs/2012/msu/12msuHistory.shtml
+    design:
+      columns: '2'
+  ####################################
   #######################################
   - block: accomplishments
     content:
