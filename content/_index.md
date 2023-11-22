@@ -221,10 +221,20 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Academic Activities
       filters:
         folders:
-          - event
+          - activity
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
+    id: talks
+    content:
+      title: Extra Courses and Training
+      filters:
+        folders:
+          - training
     design:
       columns: '2'
       view: compact
