@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Zhengqi He
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhengqi
+last_name: He
 
 # Status emoji
 status:
@@ -32,7 +32,7 @@ interests:
   - Computational Neural Science
   - Natural Langauge Processing
   - High-level Cognition
-  - Science and AI
+  - Brain and AI
 
 # Education to show in About widget
 education:
@@ -116,9 +116,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

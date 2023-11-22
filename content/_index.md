@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Trial Title'
+title: 'CV'
 date: 2023-11-22
 type: landing
 
