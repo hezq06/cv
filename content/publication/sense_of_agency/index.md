@@ -1,13 +1,14 @@
 ---
 title: "Synthetic agency: sense of agency in artificial intelligence"
 authors:
-- 
+- Roberto Legaspi
 - admin
-date: "2015-09-01T00:00:00Z"
+- Taro Toyoizumi
+date: "2019-10-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
