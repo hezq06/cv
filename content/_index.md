@@ -64,7 +64,7 @@ sections:
       items:
         - title: Research Scientist
           company: RIKEN Center for Brain Science
-          company_url: ''
+          company_url: 'https://cbs.riken.jp/en/'
           company_logo: ''
           location: Saitama, Japan
           date_start: '2017-11-01'
@@ -77,7 +77,7 @@ sections:
               * Interdisciplinary study between AI and Brain Science
         - title: Research Associate
           company: Facility for Rare Isotope Beams
-          company_url: ''
+          company_url: 'https://frib.msu.edu'
           company_logo: ''
           location: Michigan, Us
           date_start: '2012-02-01'
