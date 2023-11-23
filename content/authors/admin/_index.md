@@ -124,6 +124,6 @@ social:
 highlight_name: true
 ---
 
-Zhengqi He is a research scientist at RIKEN Center for Brain Science, working with Prof. Taro Toyoizumi. His research interests include computational theory for natural language in brain and AI, higher-order cognition function, biological big data mining. He previously works as a research associate at Facility for Rare Isotope Beams, leading the development of on-line beam tuning model FLAME.
+Zhengqi He is a research scientist at the RIKEN Center for Brain Science, collaborating with Professor Taro Toyoizumi. His research focuses on computational theories for natural language processing in both the brain and AI, higher-order cognitive functions, and mining of biological big data. Previously, he worked as a research associate at the Facility for Rare Isotope Beams, where he led the development of the online beam tuning model, FLAME.
 
 {style="text-align: justify;"}
