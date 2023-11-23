@@ -25,7 +25,7 @@ organizations:
     url: https://cbs.riken.jp/jp/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI and Brain.
+bio: Bridging the gap between brain and AI.
 
 # Interests to show in About widget
 interests:

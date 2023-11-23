@@ -339,7 +339,7 @@ sections:
         city: Wako
         region: Saitama
         postcode: '351-0106'
-        country_code: Japan
+        country: Japan
         # country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
