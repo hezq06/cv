@@ -28,7 +28,8 @@ abstract: FRIB (Facility for Rare Isotope Beams) is a heavy ion linac facility u
 
 tags:
 - FRIB
-- Theory
+- FLAME
+- Online Application
 featured: false
 
 # links:

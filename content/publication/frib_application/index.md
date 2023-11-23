@@ -33,6 +33,7 @@ abstract: The new software FLAME has been developed to serve as physics model us
 
 tags:
 - FRIB
+- FLAME
 - Online Application
 featured: false
 
