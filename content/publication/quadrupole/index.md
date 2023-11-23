@@ -6,9 +6,9 @@ authors:
 - Z. Zheng
 - Z. Liu
 - J. Wei
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2014-11-01"
 doi: ""
 

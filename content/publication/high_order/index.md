@@ -4,9 +4,9 @@ authors:
 - admin
 - Y. Zhang
 - J. Wei
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2015-06-01"
 doi: ""
 
