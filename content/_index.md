@@ -79,7 +79,7 @@ sections:
           company: Facility for Rare Isotope Beams
           company_url: 'https://frib.msu.edu'
           company_logo: ''
-          location: Michigan, Us
+          location: Michigan, US
           date_start: '2012-02-01'
           date_end: '2017-11-01'
           description: |2-
