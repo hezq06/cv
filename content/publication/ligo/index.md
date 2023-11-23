@@ -27,6 +27,7 @@ abstract: This work is mainly focused on the application of the multiple signal 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+- Tsinghua
 - Gravitational Wave Detection
 featured: false
 
