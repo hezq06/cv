@@ -270,7 +270,7 @@ sections:
           date_end: ''
           title: The 9th Joint Meeting of Chinese Physicists Worldwide
           description: Online Beam Tuning Application for the Facility for Rare Isotope Beams, contributed talk
-          organization: Tsinghua
+          organization: TsinghuaU
           url: https://www.phys.tsinghua.edu.cn/phyen/info/1061/1046.htm
         - date_start: '2016-10-06'
           date_end: ''
@@ -337,9 +337,9 @@ sections:
       address:
         street: 2-1 Hirosawa
         city: Wako
-        # region: CA
+        region: Saitama
         postcode: '351-0106'
-        country: Japan
+        country_code: Japan
         # country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
